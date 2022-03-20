@@ -6,4 +6,4 @@ const texto2 = "alura";
 const texto3 = "Cinthia";
 const texto4 = "cinthia";
 
-console.log(texto3 != texto4);
+console.log(texto3 != texto4)
